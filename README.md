@@ -6,7 +6,7 @@ This project analyzes customer shopping behavior to identify key trends in demog
 - Customer demographics and segmentation analysis
 - Revenue trends and spending behavior patterns
 - Product category and payment method distribution
-- Factors influencing customer spending and loyalty (Key Influencer analysis)
+- Factors influencing customer spending and loyalty
 
 ## 🛠 Tools Used
 
